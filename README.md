@@ -1,0 +1,1 @@
+Performed data visualization on large dataset of football players to show best stats of player from a club, strongest team in defending, passing and attacking, countries producing the best players among others 
